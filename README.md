@@ -1,5 +1,5 @@
 # MRiLab
-A numerical MRI simulator
+A numerical MRI simulator created by Fang Liu
 
 ## License
 
