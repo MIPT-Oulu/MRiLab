@@ -1,5 +1,5 @@
 # MRiLab
-[A numerical MRI simulator](https://se.mathworks.com/matlabcentral/fileexchange/45456-mrilab-v1-2-1?s_tid=mwa_osa_a) created by Fang Liu
+[A Numerical Simulation Platform for Magnetic Resonance Imaging (MRI)](https://se.mathworks.com/matlabcentral/fileexchange/45456-mrilab-v1-2-1?s_tid=mwa_osa_a) created by Fang Liu
 
 ## License
 
